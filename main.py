@@ -34,5 +34,5 @@ print(tensor3)
 #SparseTensor
 
 # evaluating Tensors
-with tf.Session() as sess:
-    tensor1.eval()
+#with tf.Session() as sess:
+ #   tensor1.eval()
